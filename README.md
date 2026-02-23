@@ -92,6 +92,20 @@ AI-powered pipeline for discovering, identifying, and enriching startup founder 
     └─────────────────────────────────┘
 ```
 
+## Key Findings
+
+### Restaurant Survival Analysis
+
+The Yelp pipeline revealed a sharp threshold effect at the 3-year mark: restaurants that survive past year 3 see a 69% reduction in annual closure risk. This non-linear survival curve is a stronger credit signal than linear age-based models.
+
+![Restaurant Survival Analysis](docs/figures/survival_curve.png)
+
+### Pipeline Performance
+
+Both pipelines achieve high-volume data extraction at minimal cost, demonstrating that alternative data collection can be systematic and scalable without enterprise vendor contracts.
+
+![Pipeline Performance Metrics](docs/figures/pipeline_metrics.png)
+
 ## Signal Applications
 
 These datasets aren't just static tables — they're inputs to predictive models:

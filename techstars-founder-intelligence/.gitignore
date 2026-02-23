@@ -1,0 +1,72 @@
+# API Keys & Configuration
+config.py
+*.env
+secrets.json
+
+# Data Files (too large/sensitive for git)
+*.csv
+*.json
+!config.py.example
+!requirements.txt
+!package.json
+!data/output/sample_austin_founders.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+env/
+venv/
+.venv
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs & Debug Files
+*.log
+*.html
+
+# Backups
+*_backup_*
+*.bak
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Assets - Allow PNG images for README
+!assets/*.png
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/

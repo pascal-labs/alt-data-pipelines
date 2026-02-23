@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+!.env.example
+
+# Data (keep samples only)
+*.csv
+!**/sample_*.csv
+!**/data/sample_*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Virtual environments
+venv/
+.venv/

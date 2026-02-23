@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (exclude real data, keep samples)
+*.csv
+!data/sample_input.csv
+!data/sample_output.csv
+
+# Configuration with secrets
+config.yml
+.env
+
+# Logs
+*.log
+
+# Chrome driver
+chromedriver
+chromedriver.exe
+
+# Temporary files
+*.tmp
+*.bak
+*.zip
+.cache/
+
+# OS
+Thumbs.db

@@ -130,7 +130,7 @@ See individual pipeline directories for setup instructions.
 ## Related Projects
 
 - [event-probability-models](https://github.com/pascal-labs/event-probability-models) — Models that consume alternative data signals
-- [polymarket-research](https://github.com/pascal-labs/polymarket-research) — Market microstructure context for signal application
+- [market-maker-forensics](https://github.com/pascal-labs/market-maker-forensics) — Market microstructure context for signal application
 
 ## License
 

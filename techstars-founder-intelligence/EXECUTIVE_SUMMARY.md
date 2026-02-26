@@ -1,6 +1,6 @@
 # Executive Summary: TechStars Founder Scraper
 
-> **One-page technical accomplishment summary for performance reviews, negotiations, and portfolio discussions**
+> **One-page technical accomplishment summary**
 
 ---
 
@@ -50,7 +50,7 @@ Built a **production-grade alternative data pipeline** that extracts and enriche
 - **Efficiency**: 18-minute runtime for complete 4,000+ company pipeline
 
 ### 4. Signal Generation from Alternative Data
-- **Geographic analysis**: Identified Austin as 2.7x overweight in founder concentration
+- **Geographic analysis**: Identified Austin as 2.04x overweight in founder concentration
 - **Temporal patterns**: Cohort analysis revealing entrepreneurial ecosystem trends (2012-2024)
 - **Sector intelligence**: Industry vertical analysis showing regional specialization
 - **Statistical significance**: Validated signals vs noise using chi-square testing
@@ -142,12 +142,6 @@ Built a **production-grade alternative data pipeline** that extracts and enriche
 - **Cost optimization** reduces data budget by 99%+
 - **Signal generation** techniques for alpha discovery
 
-### Skills Showcase (Negotiation/Performance Review)
-- **Concrete portfolio piece** demonstrating production capabilities
-- **Quantified results**: 99.7% cost savings, 98.4% accuracy, 20x speedup
-- **Alternative data expertise**: Highly valued in quantitative research roles
-- **Statistical rigor**: Validation frameworks essential for alpha generation
-
 ---
 
 ## 💡 Key Differentiators
@@ -170,22 +164,6 @@ Built a **production-grade alternative data pipeline** that extracts and enriche
 | "Good enough" accuracy | 98.4% accuracy with validation |
 | No cost analysis | 99.7% cost savings quantified |
 | Basic README | Full documentation suite |
-
----
-
-## 📝 Use This Summary For:
-
-### Performance Reviews
-*"I built an alternative data pipeline that achieved 99.7% cost savings vs vendors while exceeding all quality benchmarks by 30+ percentage points. This demonstrates my ability to deliver production-grade systems with strong ROI."*
-
-### Compensation Negotiations
-*"This project showcases skills directly applicable to quantitative research—alternative data extraction, statistical validation, cost optimization. These capabilities are valued at [quant researcher comp] in the market."*
-
-### Portfolio Discussions
-*"I can extract alpha signals from unstructured data sources. Example: identified Austin's 2.7x founder concentration through statistical analysis of 4,000+ web sources. Same methodology applies to financial alternative data."*
-
-### LinkedIn / Resume
-*"Built production alternative data pipeline processing 4,000+ sources with 98.4% accuracy and 99.7% cost savings vs vendors. Applied statistical validation (chi-square testing) and performance optimization (20x parallelization speedup)."*
 
 ---
 

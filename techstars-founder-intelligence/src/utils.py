@@ -199,7 +199,7 @@ def main():
         print("🆕 Starting fresh search")
 
     print("\n💡 Usage:")
-    print("   from smart_founder_search import FounderSearchCheckpoint")
+    print("   from utils import FounderSearchCheckpoint")
     print("   cp = FounderSearchCheckpoint()")
     print("   batch = cp.get_next_batch(10)  # Get next 10 companies")
     print("   # ... process batch with Tavily ...")

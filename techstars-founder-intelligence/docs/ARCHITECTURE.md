@@ -47,7 +47,7 @@ Technical architecture and design decisions for the TechStars Austin Recruiting 
 │              (Austin, TX identification)                         │
 │                                                                  │
 │  Input:  Location strings (5,633 locations)                      │
-│  Output: Austin founders (124 identified)                        │
+│  Output: Austin founders (126 identified)                        │
 │  Logic:  Keyword matching + metro area detection                 │
 └───────────────────────────┬─────────────────────────────────────┘
                             │

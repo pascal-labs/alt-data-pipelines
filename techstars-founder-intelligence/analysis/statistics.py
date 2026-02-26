@@ -506,7 +506,7 @@ report += f"""
    - Checkpoint-based fault tolerance for production reliability
 
 4. **Signal Generation from Alternative Data**
-   - Geographic concentration analysis (Austin 2.7x overweight)
+   - Geographic concentration analysis (Austin 2.04x overweight)
    - Temporal trend detection (cohort patterns)
    - Sector specialization identification (comparative vertical analysis)
 

@@ -47,8 +47,8 @@ Chrome browser
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/restaurant-age-yelp-scraper.git
-cd restaurant-age-yelp-scraper
+git clone https://github.com/pascal-labs/alt-data-pipelines.git
+cd alt-data-pipelines
 ```
 
 2. **Set up virtual environment**

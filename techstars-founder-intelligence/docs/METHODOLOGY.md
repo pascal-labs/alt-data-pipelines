@@ -115,7 +115,7 @@ This document explains the complete data pipeline for finding TechStars company 
 
 **Result:**
 - Updated 5,633 founder locations total (includes 260 from Tavily + 5,386 from Bright Data, with some overlap)
-- 124 Austin founders identified
+- 126 Austin founders identified
 
 ---
 
@@ -199,8 +199,8 @@ Locations are checked for Austin-area keywords (case-insensitive):
 **Use Case:** Company-level analysis
 
 #### 3. Austin-Only Versions
-- `techstars_companies_expanded_AUSTIN_FOUNDERS_ONLY_FIXED.csv` (124 rows)
-- `techstars_companies_AUSTIN_FOUNDERS_ONLY_FIXED.csv` (96 companies)
+- `techstars_companies_expanded_AUSTIN_FOUNDERS_ONLY_FIXED.csv` (126 rows)
+- `techstars_companies_AUSTIN_FOUNDERS_ONLY_FIXED.csv` (98 companies)
 
 ---
 
@@ -213,7 +213,7 @@ Locations are checked for Austin-area keywords (case-insensitive):
 - **Founders with Locations:** 5,633 (73.7%)
 
 ### Austin Founders
-- **Austin Founders:** 124 individuals
+- **Austin Founders:** 126 individuals
 - **Companies with Austin Founders:** 96 companies
 - **Austin Founder Rate:** 1.6% of all founders
 
@@ -299,7 +299,7 @@ Locations are checked for Austin-area keywords (case-insensitive):
 
 ✅ **Location Data:** 73.7% of all founders have location data
 
-✅ **Austin Identification:** 124 Austin-based founders across 96 companies
+✅ **Austin Identification:** 126 Austin-based founders across 98 companies
 
 ✅ **Data Quality:** 98.4% success rate on Bright Data enrichment
 

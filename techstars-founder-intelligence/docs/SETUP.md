@@ -105,7 +105,7 @@ python src/4_generate_csvs.py
 
 2. **techstars_companies_expanded_AUSTIN_FOUNDERS_ONLY_ENRICHED.csv**
    - Format: One row per Austin founder
-   - Rows: ~124
+   - Rows: ~126
    - Use: Recruiting outreach list
 
 3. **techstars_companies_with_founders_ENRICHED.csv**

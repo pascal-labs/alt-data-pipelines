@@ -6,7 +6,7 @@ How to leverage the TechStars Austin Recruiting Pipeline for proactive talent ac
 
 ### The Opportunity
 
-Traditional recruiting waits for candidates to apply. This dataset enables **proactive outreach** to 124 proven entrepreneurs in Austin, TX who have:
+Traditional recruiting waits for candidates to apply. This dataset enables **proactive outreach** to 126 proven entrepreneurs in Austin, TX who have:
 
 - ✅ Successfully completed TechStars accelerator
 - ✅ Built companies from scratch

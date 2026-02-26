@@ -170,7 +170,7 @@ This project showcases capabilities directly relevant to **quantitative research
 - **Production-Grade**: Automatic resume capability, comprehensive logging
 
 ### Signal Generation from Alternative Data
-- **Geographic Signals**: Identified Austin as 2.7x overweight in founder concentration
+- **Geographic Signals**: Identified Austin as 2.04x overweight in founder concentration
 - **Temporal Patterns**: Cohort analysis revealing ecosystem trends (2012-2024)
 - **Sector Intelligence**: Industry vertical analysis showing regional specialization
 - **Comparative Analysis**: Austin vs national founder distribution patterns

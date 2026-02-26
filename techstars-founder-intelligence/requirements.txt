@@ -11,6 +11,8 @@ webdriver-manager==4.0.2
 # API Integration
 requests>=2.31.0
 python-dotenv==1.0.1
+tavily-python>=0.3.0
+brightdata>=1.0.0
 
 # Visualization & Analysis
 matplotlib>=3.7.0

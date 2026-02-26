@@ -13,7 +13,7 @@ import time
 import random
 import re
 from tavily import TavilyClient
-from smart_founder_search import FounderSearchCheckpoint
+from utils import FounderSearchCheckpoint
 
 # Initialize Tavily client
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "your-tavily-api-key-here")

@@ -129,7 +129,8 @@ See individual pipeline directories for setup instructions.
 
 ## Related Projects
 
-- [event-probability-models](https://github.com/pascal-labs/event-probability-models) — Models that consume alternative data signals
+- [btc-short-term-alpha](https://github.com/pascal-labs/btc-short-term-alpha) — BTC binary strategy using price microstructure signals
+- [tweet-volume-ensemble](https://github.com/pascal-labs/tweet-volume-ensemble) — 6-model ensemble consuming social media alternative data
 - [market-maker-forensics](https://github.com/pascal-labs/market-maker-forensics) — Market microstructure context for signal application
 
 ## License
